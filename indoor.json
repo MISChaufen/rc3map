@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"indoor.json"
+        }
+    },
  "height":25,
  "infinite":false,
  "layers":[
