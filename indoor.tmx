@@ -68,7 +68,7 @@
  </layer>
  <layer id="9" name="bbb" width="25" height="25">
   <properties>
-   <property name="openWebiste" value="https://rc3.world/rc3/room/0a9e4d8b-7343-4332-9dab-5ee1c00390c0/"/>
+   <property name="openWebsite" value="https://rc3.world/rc3/room/0a9e4d8b-7343-4332-9dab-5ee1c00390c0/"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
