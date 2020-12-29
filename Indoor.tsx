@@ -913,27 +913,27 @@
  </tile>
  <tile id="715">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="716">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="717">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="718">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="719">
   <properties>
-   <property name="collides" type="bool" value="true"/>
+   <property name="collides" type="bool" value="false"/>
   </properties>
  </tile>
  <tile id="720">
@@ -1893,127 +1893,127 @@
  </tile>
  <tile id="1366">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1367">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1368">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1369">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1370">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1371">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1372">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1373">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1374">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1375">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1376">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1377">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1378">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1379">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1380">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1381">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1382">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1383">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1384">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1385">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1386">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1387">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1388">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1389">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1390">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
  <tile id="1391">
@@ -2028,7 +2028,7 @@
  </tile>
  <tile id="1393">
   <properties>
-   <property name="collides" type="" value=""/>
+   <property name="collides" value=""/>
   </properties>
  </tile>
 </tileset>
