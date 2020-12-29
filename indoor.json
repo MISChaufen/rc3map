@@ -24,7 +24,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"indoorRoom"
+                 "value":"shared MISChaufen"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -392,7 +392,7 @@
  <objectgroup id="3" name="floorLayer"/>
  <layer id="8" name="HighGrass" width="50" height="50">
   <properties>
-   <property name="openWebsite" value="https://www.youtube.com/watch?v=T2E69k7BYd8"/>
+   <property name="openWebsite" value="https://www.youtube.com/embed/T2E69k7BYd8"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

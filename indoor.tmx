@@ -33,7 +33,7 @@
  </layer>
  <layer id="7" name="jitsi" width="25" height="25">
   <properties>
-   <property name="jitsiRoom" value="indoorRoom"/>
+   <property name="jitsiRoom" value="shared MISChaufen"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
