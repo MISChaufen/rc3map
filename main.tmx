@@ -451,7 +451,7 @@
  </layer>
  <layer id="6" name="badge" width="50" height="50">
   <properties>
-   <property name="getBadge" value="OQ7o782wOsuYoKNGWVdpqcuAsXy95FqA5gnWaCQRiYV7MUZv0q"/>
+   <property name="openWebsite" value="https://github.com/dbaumgarten/rc3map/blob/master/badge.md"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

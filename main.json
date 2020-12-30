@@ -138,9 +138,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"getBadge",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"OQ7o782wOsuYoKNGWVdpqcuAsXy95FqA5gnWaCQRiYV7MUZv0q"
+                 "value":"https:\/\/github.com\/dbaumgarten\/rc3map\/blob\/master\/badge.md"
                 }],
          "type":"tilelayer",
          "visible":true,
