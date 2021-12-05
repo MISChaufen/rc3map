@@ -3,8 +3,8 @@
  <editorsettings>
   <export target="main.json" format="json"/>
  </editorsettings>
- <tileset firstgid="1" source="tileset.tsx"/>
- <tileset firstgid="6007" source="Exit.tsx"/>
+ <tileset firstgid="1" source="tilesets/outdoor.tsx"/>
+ <tileset firstgid="6007" source="tilesets/exit.tsx"/>
  <layer id="1" name="Background" width="50" height="50">
   <data encoding="csv">
 292,294,294,294,294,294,293,293,293,294,384,384,294,294,294,294,294,294,294,295,295,295,295,295,295,295,294,294,295,295,295,293,293,293,293,294,294,294,294,294,294,294,385,294,295,294,385,294,295,296,

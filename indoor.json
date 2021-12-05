@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"indoor.json"
-        }
-    },
  "height":25,
  "infinite":false,
  "layers":[
@@ -128,7 +120,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"theme.mp3"
+                 "value":"assets\/pokecenter-theme.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,13 +167,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
          "columns":31,
          "firstgid":1,
-         "image":"indoor.png",
+         "image":"tilesets\/indoor.png",
          "imageheight":1472,
          "imagewidth":992,
          "margin":0,
@@ -3850,7 +3842,7 @@
         {
          "columns":10,
          "firstgid":1427,
-         "image":"worldExit.png",
+         "image":"tilesets\/exit.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -3863,6 +3855,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":25
 }

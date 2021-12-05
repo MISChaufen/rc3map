@@ -161,7 +161,7 @@
         {
          "columns":91,
          "firstgid":1,
-         "image":"tileset.png",
+         "image":"tilesets\/outdoor.png",
          "imageheight":2112,
          "imagewidth":2922,
          "margin":0,
@@ -24017,7 +24017,7 @@
         {
          "columns":10,
          "firstgid":6007,
-         "image":"worldExit.png",
+         "image":"tilesets\/exit.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
