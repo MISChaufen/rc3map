@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.5" tiledversion="1.7.2" name="Pokemon" tilewidth="32" tileheight="32" tilecount="6006" columns="91">
+ <properties>
+  <property name="tilesetCopyright" value="Tiles by Alistair"/>
+ </properties>
  <image source="outdoor.png" trans="ffffff" width="2922" height="2112"/>
  <tile id="200">
   <properties>

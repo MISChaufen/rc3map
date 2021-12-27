@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tileset version="1.4" tiledversion="1.4.3" name="Indoor" tilewidth="32" tileheight="32" tilecount="1426" columns="31">
+<tileset version="1.5" tiledversion="1.7.2" name="Indoor" tilewidth="32" tileheight="32" tilecount="1426" columns="31">
  <image source="indoor.png" trans="ffffff" width="992" height="1472"/>
+ <tile id="0">
+  <properties>
+   <property name="tilesetCopyright" value="pokefans.net Newtiteuf &amp; Stormlugia"/>
+  </properties>
+ </tile>
  <tile id="306">
   <properties>
    <property name="collides" type="bool" value="true"/>

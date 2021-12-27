@@ -56,12 +56,6 @@
          "id":9,
          "name":"bbb",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/rc3.world\/rc3\/room\/0a9e4d8b-7343-4332-9dab-5ee1c00390c0\/"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
@@ -100,7 +94,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"main.json#centerexit"
                 }],
@@ -121,6 +115,11 @@
                  "name":"playAudio",
                  "type":"string",
                  "value":"assets\/pokecenter-theme.mp3"
+                }, 
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -182,6 +181,15 @@
          "tilecount":1426,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"pokefans.net Newtiteuf & Stormlugia"
+                        }]
+                }, 
                 {
                  "id":306,
                  "properties":[
@@ -3847,6 +3855,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"Exit",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Nobody"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,

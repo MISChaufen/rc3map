@@ -99,9 +99,6 @@
 </data>
  </layer>
  <layer id="9" name="bbb" width="25" height="25">
-  <properties>
-   <property name="openWebsite" value="https://rc3.world/rc3/room/0a9e4d8b-7343-4332-9dab-5ee1c00390c0/"/>
-  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -190,7 +187,7 @@
  </layer>
  <layer id="4" name="exit" width="25" height="25">
   <properties>
-   <property name="exitSceneUrl" value="main.json#centerexit"/>
+   <property name="exitUrl" value="main.json#centerexit"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -223,6 +220,7 @@
  <layer id="5" name="start" width="25" height="25">
   <properties>
    <property name="playAudio" value="assets/pokecenter-theme.mp3"/>
+   <property name="startLayer" type="bool" value="true"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
