@@ -42,7 +42,12 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared MISChaufen"
+                 "value":"MISCHaufen"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -56,6 +61,17 @@
          "id":9,
          "name":"bbb",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"bbbRoom",
+                 "type":"string",
+                 "value":"mischaufen"
+                }, 
+                {
+                 "name":"bbbTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,

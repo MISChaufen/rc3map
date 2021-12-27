@@ -117,7 +117,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"u9Cv2AITMsszrSQn6YPDnY0JeacBlBZ6IHgSwaaNieIT8M2S1X"
+                         "value":"iz69Cng0MJEhQ8K7KhdzEv3zgJTH5i9DsVvioWpkAGJMKtey0x "
                         }],
                  "rotation":0,
                  "type":"",
@@ -127,6 +127,12 @@
                  "y":897.333
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"iz69Cng0MJEhQ8K7KhdzEv3zgJTH5i9DsVvioWpkAGJMKtey0x "
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,

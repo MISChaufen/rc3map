@@ -68,7 +68,8 @@
  </layer>
  <layer id="7" name="jitsi" width="25" height="25">
   <properties>
-   <property name="jitsiRoom" value="shared MISChaufen"/>
+   <property name="jitsiRoom" value="MISCHaufen"/>
+   <property name="jitsiTrigger" value="onaction"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
@@ -99,6 +100,10 @@
 </data>
  </layer>
  <layer id="9" name="bbb" width="25" height="25">
+  <properties>
+   <property name="bbbRoom" value="mischaufen"/>
+   <property name="bbbTrigger" value="onaction"/>
+  </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
