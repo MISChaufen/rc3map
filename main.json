@@ -127,12 +127,6 @@
                  "y":897.333
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"getBadge",
-                 "type":"string",
-                 "value":"iz69Cng0MJEhQ8K7KhdzEv3zgJTH5i9DsVvioWpkAGJMKtey0x "
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -154,6 +148,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"A wild Pokemon appeared! Press Space to fight!"
                 }],
          "type":"tilelayer",
          "visible":true,

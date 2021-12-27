@@ -399,9 +399,6 @@
 </data>
  </layer>
  <objectgroup id="11" name="badge">
-  <properties>
-   <property name="getBadge" value="iz69Cng0MJEhQ8K7KhdzEv3zgJTH5i9DsVvioWpkAGJMKtey0x "/>
-  </properties>
   <object id="2" x="1024" y="897.333" width="32.6667" height="29.3333">
    <properties>
     <property name="getBadge" value="iz69Cng0MJEhQ8K7KhdzEv3zgJTH5i9DsVvioWpkAGJMKtey0x "/>
@@ -412,6 +409,7 @@
   <properties>
    <property name="openWebsite" value="https://www.youtube.com/embed/T2E69k7BYd8"/>
    <property name="openWebsiteTrigger" value="onaction"/>
+   <property name="openWebsiteTriggerMessage" value="A wild Pokemon appeared! Press Space to fight!"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
