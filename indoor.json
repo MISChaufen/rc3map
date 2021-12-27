@@ -177,19 +177,16 @@
          "imagewidth":992,
          "margin":0,
          "name":"Indoor",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"pokefans.net Newtiteuf & Stormlugia"
+                }],
          "spacing":0,
          "tilecount":1426,
          "tileheight":32,
          "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"pokefans.net Newtiteuf & Stormlugia"
-                        }]
-                }, 
                 {
                  "id":306,
                  "properties":[
@@ -3593,231 +3590,6 @@
                         }]
                 }, 
                 {
-                 "id":1366,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1367,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1368,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1369,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1370,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1371,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1372,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1373,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1374,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1375,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1376,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1377,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1378,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1379,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1380,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1381,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1382,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1383,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1384,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1385,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1386,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1387,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1388,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1389,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
-                 "id":1390,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
-                        }]
-                }, 
-                {
                  "id":1391,
                  "properties":[
                         {
@@ -3833,15 +3605,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":1393,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"string",
-                         "value":""
                         }]
                 }],
          "tilewidth":32,

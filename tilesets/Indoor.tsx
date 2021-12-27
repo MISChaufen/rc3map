@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.5" tiledversion="1.7.2" name="Indoor" tilewidth="32" tileheight="32" tilecount="1426" columns="31">
+ <properties>
+  <property name="tilesetCopyright" value="pokefans.net Newtiteuf &amp; Stormlugia"/>
+ </properties>
  <image source="indoor.png" trans="ffffff" width="992" height="1472"/>
- <tile id="0">
-  <properties>
-   <property name="tilesetCopyright" value="pokefans.net Newtiteuf &amp; Stormlugia"/>
-  </properties>
- </tile>
  <tile id="306">
   <properties>
    <property name="collides" type="bool" value="true"/>
@@ -1896,131 +1894,6 @@
    <property name="collides" type="bool" value="true"/>
   </properties>
  </tile>
- <tile id="1366">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1367">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1368">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1369">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1370">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1371">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1372">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1373">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1374">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1375">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1376">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1377">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1378">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1379">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1380">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1381">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1382">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1383">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1384">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1385">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1386">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1387">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1388">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1389">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
- <tile id="1390">
-  <properties>
-   <property name="collides" value=""/>
-  </properties>
- </tile>
  <tile id="1391">
   <properties>
    <property name="collides" type="bool" value="true"/>
@@ -2029,11 +1902,6 @@
  <tile id="1392">
   <properties>
    <property name="collides" type="bool" value="true"/>
-  </properties>
- </tile>
- <tile id="1393">
-  <properties>
-   <property name="collides" value=""/>
   </properties>
  </tile>
 </tileset>

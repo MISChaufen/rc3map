@@ -110,7 +110,7 @@
          "name":"badge",
          "objects":[
                 {
-                 "height":29.3333333333334,
+                 "height":29.3333,
                  "id":2,
                  "name":"",
                  "properties":[
@@ -122,9 +122,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":32.6666666666665,
+                 "width":32.6667,
                  "x":1024,
-                 "y":897.333333333333
+                 "y":897.333
                 }],
          "opacity":1,
          "type":"objectgroup",
